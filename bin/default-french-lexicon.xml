@@ -16293,6 +16293,13 @@
 		<id>maison_1</id>
 		<plural>maisons</plural>
 	</word>
+    <word>
+		<base>compétence</base>
+		<category>noun</category>
+		<gender>feminine</gender>
+		<id>compétence_1</id>
+		<plural>compétences</plural>
+	</word>
 	<word>
 		<base>maître</base>
 		<category>noun</category>
